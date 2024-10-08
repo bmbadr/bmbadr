@@ -2,7 +2,7 @@
 - 👀 I’m interested in Microsoft systems
 - 🌱 I’m currently learning Azure virtual desktop and DevOps
 - 💞️ I’m looking to collaborate on AVD, DSC, Powershell, ARM, & Bicep
-- 📫 How to reach me bmbadr@hotmail.com
+- 📫 How to reach me 
 
 <!---
 bmbadr/bmbadr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
